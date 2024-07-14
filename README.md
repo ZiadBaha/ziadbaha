@@ -1,4 +1,3 @@
-[![MasterHead](https://dribbble.com/shots/6532311-ASP-NET-to-Build-Scalable-Web-Apps/attachments/6532311-ASP-NET-to-Build-Scalable-Web-Apps?mode=media)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm ziad bahaa</h1>
 <h3 align="center">backend developer from Egypt</h3>
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
