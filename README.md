@@ -102,3 +102,6 @@ I love solving challenging backend problems and making things work seamlessly. I
 - Contributed to various open-source projects.
 - Created multiple backend applications using ASP.NET Core.
 - Worked on database optimization and performance improvements.
+---
+![Logo](https://imgur.com/yxlX1qo.png)
+
